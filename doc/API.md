@@ -277,3 +277,8 @@ alog('module.on', 'send', function(data){
     delete data.refer;
 });
 ```
+
+* 修改测试验 *
+```text
+    this is the test of modify files
+```
